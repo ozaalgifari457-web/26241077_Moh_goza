@@ -1,0 +1,13 @@
+Nama:Moh.goza algifari
+Digit NIM: 26241077
+2 digit terakhir NIM: 77
+Digit terakhir NIM: 7
+angka pertama: 77
+angka kedua: 8
+Hasil Penjumlahan: 84
+Hasil Pengurangan: 70
+Hasil Perkalian: 539
+Hasil Pembagian: 11.0
+Hasil Modulus: 0
+Hasil Pemangkatan: 16048523266853
+Hasil Pembagian Bulat: 11
